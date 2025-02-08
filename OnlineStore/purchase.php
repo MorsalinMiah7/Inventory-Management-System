@@ -65,7 +65,7 @@
     </form>
 </div>
 <footer class="text-center text-gray-500 mt-8">
-    &copy; <?php echo date("Y"); ?> Ornab Biswass. All rights reserved.
+    &copy; <?php echo date("Y"); ?> Ornab Biswass, Morsalin, Sahadat, Rakib. All rights reserved.
 </footer>
 
 
